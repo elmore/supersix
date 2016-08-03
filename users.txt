@@ -1,0 +1,16 @@
+https://super6.skysports.com/results/round/1/user/12734246
+
+
+emmet 	12734246
+mark	12733532
+kenny 	10176001
+
+
+https://super6.skysports.com/played/enhancedStats?&teams=1%7C238&challengeId=79
+
+{"history":[[],[{"id":"37236","team1":"869","team2":"238","team1score":"1","team2score":"1","competition":"1993","outcome":"d"},{"id":"37228","team1":"238","team2":"184","team1score":"1","team2score":"1","competition":"1993","outcome":"d"},{"id":"37160","team1":"1747","team2":"238","team1score":"1","team2score":"2","competition":"1993","outcome":"w"},{"id":"36217","team1":"222","team2":"238","team1score":"1","team2score":"0","competition":"1993","outcome":"l"},{"id":"36183","team1":"350","team2":"238","team1score":"0","team2score":"2","competition":"1993","outcome":"w"},{"id":"36153","team1":"238","team2":"163","team1score":"3","team2score":"0","competition":"1993","outcome":"w"}]],"predictions":[80,14,5]}
+
+
+http://www.footytube.com/openfooty/
+http://api.football-data.org/index
+http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
